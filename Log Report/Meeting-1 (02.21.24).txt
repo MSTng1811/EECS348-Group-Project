@@ -1,1 +1,25 @@
+EECS 348 Project Meeting #1
 
+When: 2/21/24  4:30-6:15pm
+Purpose: First team meeting, establishing roles and responsibilities
+Attendance: (every team member) Mark Maloney, Ty Farrington, Brett Suhr, Aiden Burke, and Muskan Sharma (Virtually)
+
+Meeting Notes #1
+Today, Mark organized a zoom meetng with all of the team members at 4:30pm. During this meeting we shared the Project 
+Development plan between all team members in a shared word document that everyone can update live. Next, we established 
+roles for each member of the group.  The roles for each team member are listed below. After establishing our roles, we 
+started going through the project development plan and started talking about what we want it to look like and how we want 
+it to work. Next, we started going through each segment of the Software Development Plan together and discussing what to 
+write down for each step of the development process.We also edited the cover page for the project, and picked a team 
+name.  Muskan will be responsible for starting a GitHub repository and emailing every member of our team a link to it so 
+that we can all collaborate on the repository.  
+
+Team Name: Cryptic Coders  
+Team Roles:
+1. Mark Maloney: Project Leader- Interface with the instructor, group management,  
+2. Aiden Burke: Assistant Project Leader- Assist in management of group; help oversee project technical development.  
+3. Ty Farrington: Records Manager- Takes notes of the meetings/recording a log of the team meetings and team 
+contributions  
+4. Brett Suhr: Quality Assurance Engineer- Debug code/ manage and control data  
+5. Muskan Sharma: Technical Manager- Oversees project technical development of the github repository and logs all 
+technical development for the group.
