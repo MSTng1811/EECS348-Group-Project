@@ -1,0 +1,16 @@
+EECS 348 Project Meeting #2
+When: 3/20/24 4:00pm-5:15pm
+Purpose: 2nd team meeting, reflected over previous software development plan and discussed our software requirements specifications
+Attendance: (every team member) Mark Maloney, Ty Farrington, Brett Suhr, Aiden Burke, and Muskan Sharma (Virtually)
+
+Meeting Notes #2
+Today, Mark organized a zoom meeting with all of the team members at 4:00pm. During this meeting we discussed the previous Project Development plan and then started on the Software Requirements Specifications, which was a live document shared between all team members so that everyone can update it. Next, we started looking through the whole document and decided the best way to answer each section. We started going through section 1 first, and then 2 & 3. We used the project description document for spring 2024 to answer section 3 to include what key features, guidelines, and deliverables in our project. Some of the items this includes are functional and nonfunctional requirements, our purpose, scope, and references. We talked about different aspects of our functionality and what we deemed as essential functions and desirable functions, for our project. Muskan and Mark wrote descriptions for the product perspective and defined what the different interfaces our project is supposed to look like. We talked about what logical operations that we need to implement into our project as week as our use-case specifications. Brett and Aidan pitched into the specific requirements including which logical operations we will be using, how truth values will be defined and calculated, and so on. We also edited the cover page for the project. We decided that a whole drawn out revision history wasn’t needed because we held 1 meeting as a group to complete the whole requirements specifications document, and no additional revisions were going to be made because everything was agreed upon. Muskan will be responsible for starting a GitHub repository and emailing every member of our team a link to it so that we can all collaborate on the repository. Ty will be responsible for emailing everyone a copy of the notes for the meeting.
+
+Team Name: Cryptic Coders
+
+Team Roles:
+Mark Maloney: Project Leader- Interface with the instructor, group management,  
+Aiden Burke: Assistant Project Leader- Assist in management of group; help oversee project technical development. 
+Ty Farrington: Records Manager- Takes notes of the meetings/recording a log of the team meetings and team contributions 
+Brett Suhr: Quality Assurance Engineer- Debug code/ manage and control data 
+Muskan Sharma: Technical Manager- Oversees project technical development of the github repository and logs all technical development for the group. 
