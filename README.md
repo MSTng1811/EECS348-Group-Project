@@ -16,3 +16,6 @@ Given below are the team members of the project:-
 
 The repository will be regularly updated with required materials at a specific phase of the project along with
 the logs of all the discussions and iterations carried out in the code.
+
+VERSION 1 (02/21/24)- Discussion about the project development and team task specification
+VERSION 2 (03/20/24)- Discussion about the project requirements specification and user cases
