@@ -19,3 +19,4 @@ the logs of all the discussions and iterations carried out in the code.
 
 1. CAPSTONE 1 (02/21/24)- Discussion about the project development and team task specification
 2. CAPSTONE 2 (03/20/24)- Discussion about the project requirements specification and user cases
+3. CAPSTONE 3 (04/10/24)- Discussion about the software architecture specification and program description
