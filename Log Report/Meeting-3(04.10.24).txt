@@ -1,0 +1,29 @@
+EECS 348 Project Meeting #3
+
+When: 4/10/24 5:00pm-6:15pm
+
+Purpose: 3nd team meeting, reflected over previous software requirements specifications and discussed our software architecture for the Boolean logic simulator
+
+Attendance: (every team member) Mark Maloney, Ty Farrington, Brett Suhr, Aiden Burke, and Muskan Sharma (Virtually)
+
+Meeting Notes #3
+
+Today, Mark organized a zoom meeting with all of the team members at 4:00pm. During this meeting we discussed the previous software requirements specifications and then started on the Software Architecture Document
+which was a live document shared between all team members so that everyone can update it. Then we reviewed our grading for the software requirements specifications to talk about what we can improve upon. Next, we started
+looking through the whole document and decided the best way to answer each section. We started going through section 1 first, and then 2, 3,4, 5, and 6,7, & 8. Brett did the quality section and the Architectural goals and
+constraints. We talked about different aspects of our functionality and what we deemed as essential functions and desirable functions, for our project. Mark wrote the references and architectural representation. Muskan
+wrote the interface description and the overview. We all worked on the introduction, purpose and scope together. Ty did the definitions acronyms, and abbreviations as well as the logic view and overview. After finishing
+every section of the document. We all worked on the Parser, Tokenizer, Evaluation, and error handler together. Aidan helped make the UML case diagram for the different design modules/packages. We talked about how we wanted
+to split up how each person was coding what on the Boolean logic simulator. We decided to remove the items from the document that were either redundant or optional, and didn’t quite fit our plan. We also edited the cover
+page for the project. We decided that a whole drawn out revision history wasn’t needed because we held 1 meeting as a group to complete the whole software architecture document, and no additional revisions were going to
+be made because everything was agreed upon. Muskan will be responsible for starting a GitHub repository and emailing every member of our team a link to it so that we can all collaborate on the repository. Ty will be
+responsible for emailing everyone a copy of the notes for the meeting.
+
+Team Name: Cryptic Coders
+
+Team Roles:
+Mark Maloney: Project Leader- Interface with the instructor, group management,  
+Aiden Burke: Assistant Project Leader- Assist in management of group; help oversee project technical development. 
+Ty Farrington: Records Manager- Takes notes of the meetings/recording a log of the team meetings and team contributions 
+Brett Suhr: Quality Assurance Engineer- Debug code/ manage and control data 
+Muskan Sharma: Technical Manager- Oversees project technical development of the github repository and logs all technical development for the group.
