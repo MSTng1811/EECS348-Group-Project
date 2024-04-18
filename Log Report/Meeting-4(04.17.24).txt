@@ -1,0 +1,31 @@
+EECS 348 Project Meeting #4  
+When: 4/17/24  5:00pm-6:30pm
+Purpose: 4th team meeting, reflected over previous software requirements specifications and discussed our software
+architecture for the Boolean logic simulator
+Attendance: (every team member) Mark Maloney, Ty Farrington, Brett Suhr, Aiden Burke, and Muskan Sharma (Virtually)
+Meeting Notes #3  
+Today, Mark organized a zoom meeting with Ty, Brett, Muskan, and Aidan at 5pm.. During this meeting we discussed the
+previous software architecture for our Boolean logic simulator and then started on the our project implementation.
+Then, we made sure that a GitHub repository was shared between all team members so that everyone can update it. Then
+we reviewed our grading for the software architecture assignment and discussed how it will play into the next part of
+our project. Next, we looked over the implementation assignment which focuses on an emphasis on
+1. Accuracy, 
+2. Robustness, 
+3. Modularity,
+4. Formatting and Style,
+5. Documentation, and
+6. Testing.
+Then we pulled up our project description document and Brett shared his screen and we all helped write the code together
+and discussed how each portion should be done. After adding all functional components to our Boolean Algebra calculator,
+we started testing each operator and component to make sure that it will meet all requirements and perform as expected.
+At the conclusion of our meeting, we completed a lot of the functional requirements but need to continue debugging and
+working out the bugs of our simulator. Muskan made sure the GitHub repository permissions were updated so that every member
+can upload files for the calculator. Ty will be responsible for emailing everyone a copy of the notes for the meeting.
+ 
+Team Name:  Cryptic Coders  
+Team Roles:  
+Mark Maloney: Project Leader- Interface with the instructor, group management,    
+Aiden Burke: Assistant Project Leader- Assist in management of group; help oversee project technical development.   
+Ty Farrington: Records Manager- Takes notes of the meetings/recording a log of the team meetings and team contributions   
+Brett Suhr: Quality Assurance Engineer- Debug code/ manage and control data   
+Muskan Sharma: Technical Manager- Oversees project technical development of the github repository and logs all technical development for the group.   
