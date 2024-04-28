@@ -21,3 +21,4 @@ the logs of all the discussions and iterations carried out in the code.
 2. CAPSTONE 2 (03/20/24)- Discussion about the project requirements specification and user cases
 3. CAPSTONE 3 (04/10/24)- Discussion about the software architecture specification and program description
 4. CAPSTONE 4 (04/17/24)- Discussion about basic structure of the program and writing out the initial code for the project
+5. CAPSTONE 5 (04/24/24)- Discussion about the test cases and the front end development of the boolean expression evaluator
