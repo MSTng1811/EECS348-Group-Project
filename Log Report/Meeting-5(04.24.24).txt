@@ -1,0 +1,25 @@
+EECS 348 Project Meeting #5
+
+When: 4/24/24 5:00pm-7:15pm
+Purpose: 5th team meeting, reflected over previous code from the code implementation and worked on troubleshooting any errors in our code, working on the test cases
+for the assignment. Finally, we worked on the test cases documentation and the user manual documentation, so that we could tie up any lose ends with this project.
+Attendance: (every team member) Mark Maloney, Ty Farrington, Brett Suhr, Aiden Burke, and Muskan Sharma (Virtually)
+
+Meeting Notes #5
+Today, Mark organized a zoom meeting with Ty, Brett, Muskan, and Aidan at 5pm.. During this meeting we discussed the previous software implementation and talked
+about any errors that we had with our code, etc. , Brett and Aidan made sure to hammer out the rest of the bugs and then they began handling the examples from the
+project description document for expressions that are valid and invalid. Next they started evaluating extra test cases Then Mark, Ty, and Muskan started working on
+finishing the test cases document, as well as the user manual document. We used a shared document so that everyone could update the documents together in real time.
+After that, Ty started making the table for test cases that would be evaluated by our Boolean Algebra Simulator, while Mark worked on the test cases document.
+Muskan started working on the front end development of our calculator. Brett and Aidan ended up finishing the backend portion/functional components of the code.
+We ended the meeting with the test cases document basically done and with Muskan finishing the backend, so that at a later time we can finish the User Manual
+documentation. Ty will be responsible for emailing everyone a copy of the notes for the meeting.
+
+Team Name: Cryptic Coders
+
+Team Roles:
+1. Mark Maloney: Project Leader- Interface with the instructor, group management,  
+2. Aiden Burke: Assistant Project Leader- Assist in management of group; help oversee project technical development. 
+3. Ty Farrington: Records Manager- Takes notes of the meetings/recording a log of the team meetings and team contributions 
+4. Brett Suhr: Quality Assurance Engineer- Debug code/ manage and control data 
+5. Muskan Sharma: Technical Manager- Oversees project technical development of the github repository and logs all technical development for the group.
