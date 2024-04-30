@@ -6,30 +6,34 @@
     <title>Boolean Expression Evaluator</title>
 </head>
 <body>
-    <h1>Boolean Expression Evaluator</h1>
-    <form id="expressionForm">
-        <label for="expression">Enter a boolean expression:</label>
-        <input type="text" id="expression" name="expression" required>
-        <button type="submit">Evaluate</button>
-    </form>
-    <div id="result"></div>
+<h1>Boolean Expression Evaluator</h1>
+<p>Valid Operators:</p>
+<p>AND(&) OR(|) NOT(!) NAND(@) XOR($) </p>
+<p>USE "T" for True and "F" for False</p>
+<p>This calculator is case and parenthesis sensitive</p>
+<form id="expressionForm">
+    <label for="expression">Enter a boolean expression:</label>
+    <input type="text" placeholder="Ex: !(T & F)" id="expression" name="expression" required>
+    <button type="submit">Evaluate</button>
+</form>
+<div id="result"></div>
 
-    <script>
-        // JavaScript code to handle form submission
-        document.getElementById("expressionForm").addEventListener("submit", function(event) {
-            event.preventDefault(); // Prevent default form submission
+<script>
+    // JavaScript code to handle form submission
+    document.getElementById("expressionForm").addEventListener("submit", function(event) {
+        event.preventDefault(); // Prevent default form submission
 
-            // Get the input expression
-            var expression = document.getElementById("expression").value;
+        // Get the input expression
+        var expression = document.getElementById("expression").value;
 
-            // Send the expression to the server
-            fetch("/evaluate", {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify({ expression: expression })
-            })
+        // Send the expression to the server
+        fetch("/evaluate", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ expression: expression })
+        })
             .then(response => response.json())
             .then(data => {
                 // Display the result
@@ -38,7 +42,7 @@
             .catch(error => {
                 console.error("Error:", error);
             });
-        });
-    </script>
+    });
+</script>
 </body>
 </html>
