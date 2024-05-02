@@ -18,6 +18,18 @@
 </form>
 <div id="result"></div>
 
+<div id="buttons">
+    <button onclick="addToExpression('(')">(</button>
+    <button onclick="addToExpression(')')">)</button>
+    <button onclick="addToExpression('!')">!</button>
+    <button onclick="addToExpression('@')">@</button>
+    <button onclick="addToExpression('$')">$</button>
+    <button onclick="addToExpression('&')">&</button>
+    <button onclick="addToExpression('|')">|</button>
+    <button onclick="addToExpression('T')">T</button>
+    <button onclick="addToExpression('F')">F</button>
+</div>
+
 <script>
     // JavaScript code to handle form submission
     document.getElementById("expressionForm").addEventListener("submit", function(event) {
@@ -43,6 +55,11 @@
                 console.error("Error:", error);
             });
     });
+    function addToExpression(value) {
+        var expressionInput = document.getElementById("expression");
+        expressionInput.value += value;
+    }
+
 </script>
 </body>
 </html>
