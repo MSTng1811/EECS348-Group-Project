@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boolean Expression Evaluator</title>
+    <title>Boolean Logic Simulator</title>
     <style>
 
         button {
@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-<h1>Boolean Expression Evaluator</h1>
+<h1>Boolean Logic Simulator</h1>
 <p>Valid Operators:</p>
 <p>AND(&) - OR(|) - NOT(!) - NAND(@) - XOR($) </p>
 <p>USE "T" for True and "F" for False</p>
@@ -35,6 +35,7 @@
     <input type="text" placeholder="Ex: !(T & F)" id="expression" name="expression" required>
     <button type="submit">Evaluate</button>
     <button type="button" onclick="clearExpression()">Clear</button>
+    <button type="button" onclick="undo()">Undo</button>
 </form>
 <div id="result"></div>
 
@@ -81,6 +82,11 @@
     }
     function clearExpression() {
         document.getElementById("expression").value = ""; // Clear the input field
+    }
+    function undo() {
+        var expressionInput = document.getElementById("expression");
+        var currentValue = expressionInput.value;
+        expressionInput.value = currentValue.slice(0, -1); // Remove the last character
     }
 
 </script>
