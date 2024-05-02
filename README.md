@@ -1,6 +1,7 @@
 # BOOLEAN LOGIC SIMULATOR
 **- Cryptic Coders**
-REPLIT: https://replit.com/@aidenburke6/EECS348-Final-Project?v=1#main.cpp
+
+- REPLIT: https://replit.com/@aidenburke6/EECS348-Final-Project?v=1#main.cpp
 
 This is a respository to store all the contents of our group project "Boolean Logic Simulator".
 The purpose of this project is to create a Boolean Logic Simulator by exploring concepts of logic gates,
