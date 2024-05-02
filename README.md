@@ -1,5 +1,6 @@
 # BOOLEAN LOGIC SIMULATOR
 **- Cryptic Coders**
+REPLIT: https://replit.com/@aidenburke6/EECS348-Final-Project?v=1#main.cpp
 
 This is a respository to store all the contents of our group project "Boolean Logic Simulator".
 The purpose of this project is to create a Boolean Logic Simulator by exploring concepts of logic gates,
@@ -22,3 +23,5 @@ the logs of all the discussions and iterations carried out in the code.
 3. CAPSTONE 3 (04/10/24)- Discussion about the software architecture specification and program description
 4. CAPSTONE 4 (04/17/24)- Discussion about basic structure of the program and writing out the initial code for the project
 5. CAPSTONE 5 (04/24/24)- Discussion about the test cases and the front end development of the boolean expression evaluator
+
+
