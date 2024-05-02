@@ -5,24 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Boolean Expression Evaluator</title>
     <style>
-		
-		button {
-		  background-color: #5AAAFF;
-		  color: white;
-		  text-align: center;
-		  display: inline-block;
-		  font: 16px Helvetica, sans-serif;
-		}
-		button:hover {
-		  background-color: #2991FF;
-		  color:white;
-		}
-		body {
-                  background-color: #D3E8FF;
-                  font: 16px Helvetica, sans-serif;
-                }
 
-	</style>
+        button {
+            background-color: #5AAAFF;
+            color: white;
+            text-align: center;
+            display: inline-block;
+            font: 16px Helvetica, sans-serif;
+        }
+        button:hover {
+            background-color: #2991FF;
+            color:white;
+        }
+        body {
+            background-color: #D3E8FF;
+            font: 16px Helvetica, sans-serif;
+        }
+
+    </style>
 </head>
 <body>
 <h1>Boolean Expression Evaluator</h1>
@@ -34,6 +34,7 @@
     <label for="expression">Enter a boolean expression:</label>
     <input type="text" placeholder="Ex: !(T & F)" id="expression" name="expression" required>
     <button type="submit">Evaluate</button>
+    <button type="button" onclick="clearExpression()">Clear</button>
 </form>
 <div id="result"></div>
 
@@ -77,6 +78,9 @@
     function addToExpression(value) {
         var expressionInput = document.getElementById("expression");
         expressionInput.value += value;
+    }
+    function clearExpression() {
+        document.getElementById("expression").value = ""; // Clear the input field
     }
 
 </script>
